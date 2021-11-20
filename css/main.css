@@ -1,0 +1,210 @@
+
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important;  /* 50% of your logo width */
+    display: block;
+}
+
+.categorias {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.categorias .row {
+    margin-top: 20px;
+}
+
+.articulos-populares {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.articulos-populares .btn {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+}
+  
+.scrollmenu .card {
+    display: inline-block;
+    padding: 14px;
+    margin: 20px;
+    text-decoration: none;
+    max-width: 200px;
+}
+  
+.scrollmenu a:hover {
+    background-color: #777;
+}
+
+.tutorial {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contenido {
+    padding: 100px;
+}
+
+.contenido h4 {
+    text-align: center;
+}
+
+.contenido p {
+    text-align:justify;
+}
+
+
+.divisor {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: gray;
+    background-color: #0f0c0f; 
+}
+
+.socios {
+    padding-top: 20px;
+    text-align: center;
+    background-color: #0f0c0f;  
+    color: white;
+}
+
+.socios img {
+    width: 90%;
+}
+
+
+.footer{
+    background-color: #0f0c0f;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.aviso{
+    padding-top: 10px;
+    font-size: 10px;
+}
+
+.card {
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space:nowrap;
+    overflow:hidden;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+}
+
+.tienda {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.filtros {
+    text-align: left;
+}
+
+.filtros a {
+    color: #0f0c0f;
+    line-height: 0.5;
+    text-align: left;
+}
+
+.articulos {
+    text-align: center;
+}
+
+.articulos .row {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.paginas {
+    text-align: center;
+}
+.paginas button {
+    padding: 10px;
+    font-size: 15px;
+}
+
+.articulo-seleccionado {
+    
+    margin-top: 100px;
+    padding: 20px;
+}
+
+
+.articulo-imagenes {
+    text-align: center;
+    
+
+}
+
+.imagen-grande {
+    width: 500px;
+    height: 500px;
+    padding-bottom: 10px;
+    border-radius: 5%
+}
+
+.imagen-peque {
+    width: 100px;
+    height: 100px;
+    border-radius: 5%;
+}
+
+.articulo-titulo {
+    text-align: center;
+}
+
+.vermas-link {
+    color: #0f0c0f;
+    padding-left: 500px;
+}
+
+.articulo-alquilar .row .col-sm-2 {
+    padding-left: 1px;
+}
+
+.articulo-alquilar {
+    margin-top: 55px;
+}
+
+.publicar-articulo {
+    margin-top: 100px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+
+.publicar-articulo input, select, button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.publicar-articulo img {
+    margin: 20px;
+}
+
+.fotos-articulo {
+    text-align: center;
+}
